@@ -1,0 +1,17 @@
+h1{
+  color:white;
+  text-align: center;
+  background-color: black
+}
+h2{
+    color:cadetblue;
+    text-align: center;
+    background-color: greenyellow;
+}
+h3{
+    color: yellow;
+}
+
+body{
+    background-image: url("../images/haikei.jpg")
+}
