@@ -1,0 +1,24 @@
+h1{
+  color:white; 
+  text-align: center;
+  background-color: pink
+}
+h2{
+  color:white;  
+  text-align: center;
+  background-color: palevioletred
+}
+h3{
+  color:white;  
+  text-align: center;
+  background-color: palevioletred
+}
+body{
+    background-image: url("../images/pinko.jpg")
+}
+table{
+    background-color: hotpink
+}
+ol{
+     background-image: url("../images/haikei.jpg")
+}
