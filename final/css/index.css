@@ -1,0 +1,42 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+
+
+h1.theme{
+    text-align: center;
+    font-family:monospace; 
+    margin-bottom: 10px;
+    background-color: darkgray;
+}
+
+p1.introduce{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 50px;
+    
+}
+
+div.menu1{
+    margin-right: 150px;
+    display: inline-block
+}
+div.menu2{
+    margin-right: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+div.menu3{
+    display: inline-block;
+}
+
+
+body{
+    background-image: url(../images/background.jpg);
+    background-blend-mode: lighten;
+    background-position: center;
+    background-size: 1300px 605px;
+    background-attachment: fixed;
+    background-color: rgba(255,255,255,0.45);
+}
